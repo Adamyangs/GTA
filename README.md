@@ -82,7 +82,7 @@ In memory-constrained scenarios requiring GPU-CPU memory transfers, GTA-1B shows
 </div>
 
 ## ⚙️ Training Details
-To reproduce the training curve and performance, you can use the `run_clm.py` (transformers==4.46.1) provided by HuggingFace. The exact training hyperparameter are as follows:
+To reproduce the training curve and performance, you can use the `run_clm.py` provided by HuggingFace. The exact training hyperparameter are as follows:
 
 ```python
 
